@@ -1,0 +1,3 @@
+clase  Bot ( BaseBot ): 
+    pasar
+   
